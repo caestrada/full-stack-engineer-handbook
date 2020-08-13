@@ -14,7 +14,7 @@ I hope to inspire any upcoming engineer/dev out there. There is so much content 
   * Currently Im studying for my 4th Salesforce Certification and programming in general.
   * Work on a **Coding Problem** in Javascript and in C++.
 * 9:00am - 12:00pm work.
- * Due to **Covid-19** 🦠 I'm working from home, so no commute to work 🥳 
+  * Due to **Covid-19** 🦠 I'm working from home, so no commute to work 🥳 
 * Run 2 miles at noon. 
 * 1:00pm - 5:00pm work.
 * 5:30pm Crossfit 🏋🏻‍♂️
