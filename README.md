@@ -10,7 +10,7 @@ I hope to inspire any upcoming engineer/dev out there. There is so much content 
 ### My Daily Routine
 * Wake up 6:30 am
 * Study from 7:00 am to 9:00 am
-  * Currently Im studying for my 4th Salesforce Certification.
+  * Currently Im studying for my 4th Salesforce Certification and programming in general.
   * Due to **Covid-19** I'm working from home, so no commute to work 🥳 
 * 9:00am - 12:00pm work.
 * Run 2 miles at noon. 
