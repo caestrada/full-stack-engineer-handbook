@@ -1,4 +1,5 @@
 # Full Stack Engineer Handbook
+Hi 👋🏻. My name is Carlos Estrada and I'm an engineer. I graduated from college with a Bachelors in Electrical and Computer Engineering.
 This is the path on becoming a better Full-Stack Engineer that I suggest. I have a passion for technology and learning. So I'll be showing the steps I took on becoming a Full-Stack ninja. 
 
 ### Steps
