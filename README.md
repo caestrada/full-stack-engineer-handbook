@@ -1,5 +1,5 @@
 # Full Stack Engineer Handbook
-Hi 👋🏻. My name is **Carlos Estrada**, I love **programming** and the empowerment the web has given us. I graduated from college with Bachelors in **Electrical** and **Computer Engineering**. I went on to work in the **Aerospace industry** right out of colledge and later for the **Semiconductor industry**. I currently work as a Salesforce developer and I believe it's an amazing platform that is only getting better. But...
+Hi 👋🏻. My name is **Carlos Estrada**, I love **programming** and the empowerment the web has given us. I graduated from college with Bachelors in **Electrical** and **Computer Engineering**. I went on to work in the **Aerospace industry** right out of colledge and later for the **Semiconductor industry**. I currently work as a **Salesforce Developer** and I believe it's an amazing platform that is only getting better. But...
 This is the path on becoming a better Full-Stack Engineer that I suggest. I have a passion for technology and learning. So I'll be showing the steps I took on becoming a Full-Stack ninja. 
 
 ### Steps
