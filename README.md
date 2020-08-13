@@ -21,7 +21,9 @@ I hope to inspire any upcoming engineer/dev out there. There is so much content 
 * 9:30pm - 10:00pm start wynding down, otherwise I'll be too wired to sleep.
   * Read, meditate, whatever helps out.
   
-**Note**: I barely watch TV or play video games. I don't mind a good Series (Stranger things, The Mandalorian). But the problem I find with video games and TV is that after a couple of hours I feel that I didn't accomplished anything for my knowledge or wellbeing.
+**Note**: 
+* I barely watch TV or play video games. I don't mind a good Series (Stranger things, The Mandalorian). But the problem I find with video games and TV is that after a couple of hours I feel that I didn't accomplished anything for my knowledge or wellbeing.
+* Yeah... I need a wife.
 
 ## Steps to Full-Stack Ninja
 Enough chatting.
