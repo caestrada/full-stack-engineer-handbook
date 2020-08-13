@@ -16,7 +16,7 @@ I hope to inspire any upcoming engineer/dev out there. There is so much content 
 * 9:00am - 12:00pm work.
 * Run 2 miles at noon. 
 * 1:00pm - 5:00pm work.
-* 5:30pm Crossfit 🏋
+* 5:30pm Crossfit 🏋🏻‍♂️
 * 7:00pm Study/Projects/Entrepreneuaship
 * 9:30pm - 10:00pm start wynding down, otherwise I'll be too wired to sleep.
   * Read, meditate, whatever helps out.
