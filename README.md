@@ -23,7 +23,7 @@ I hope to inspire any upcoming engineer/dev out there. There is so much content 
   
 **Note**: 
 * I barely watch TV or play video games. I don't mind a good Series (Stranger things, The Mandalorian). But the problem I find with video games and TV is that after a couple of hours I feel that I didn't accomplished anything for my knowledge or wellbeing.
-* Yeah... I need a wife, and dog, and children.
+* Yeah... I need a wife, and dog, and children. 🤦🏻‍♂️
 
 ## Steps to Full-Stack Ninja
 Enough chatting.
