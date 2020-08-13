@@ -1,7 +1,7 @@
 # Full Stack Engineer Handbook
 Hi 👋🏻. 
 
-My name is **Carlos Estrada**, I love **technology**, **Programming** and **Entrepreneurship**. I graduated from college with Bachelors in **Electrical** and **Computer Engineering**. I went on to work in the **Aerospace industry** right out of colledge and later for the **Semiconductor industry**. I currently work as a **Salesforce Developer** and I believe it's an amazing platform that is only getting better. 
+My name is **Carlos Estrada**, I love **Technology**, **Programming** and **Entrepreneurship**. I graduated from college with Bachelors in **Electrical** and **Computer Engineering**. I went on to work in the **Aerospace industry** right out of colledge and later for the **Semiconductor industry**. I currently work as a **Salesforce Developer** and I believe it's an amazing platform that is only getting better. 
 
 As a Full-Stack Engineer I feel I could build 
 
