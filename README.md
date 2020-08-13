@@ -9,4 +9,7 @@ I hope to inspire any upcoming engineer/dev out there. There is so much content 
 
 ### Steps to Full-Stack Ninja. 
 - [ ] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244)
-   * In my opinion the best bootcamp out in the web. The instructor [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) will take you from **Rooky** to **Pro** in this amazing course. For those who already have experience, it's still an amazing course to take.
+    * In my opinion the best bootcamp out in the web. The instructor [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) will take you from **Rooky** to **Pro** in this amazing course. For those who already have experience, it's still an amazing course to take.
+- [ ] In parallel with the bootcamp above, start your own webpage. Have a purpuse and put everything in it. 
+    * I'll provide a link to mine soon.
+    * Make sure to have a purpose (and I'll explain what I mean later).
