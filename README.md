@@ -26,7 +26,8 @@ I hope to inspire any upcoming engineer/dev out there.
 * I barely watch TV or play video games. I don't mind a good Series (Stranger things, The Mandalorian, etc...). But the problem I find with video games and TV is that after a couple of hours I feel that I didn't accomplished anything productive.
 
 ## Steps to Full-Stack Ninja
-Enough chatting.
+Not sure if these are the best steps, but these are the ones I took:
+- [ ] [CS106B - Programming Abstractions](https://github.com/caestrada/practicing-cpp/blob/master/cs106b/README.md)
 - [ ] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244)
     * In my opinion the best bootcamp out in the web. The instructor [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) will take you from **Rooky** to **Pro** in this amazing course. For those who already have experience, it's still an amazing course to take.
 - [ ] In parallel with the bootcamp above, start your own webpage.
