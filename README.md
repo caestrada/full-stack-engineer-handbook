@@ -29,8 +29,11 @@ Not sure if these are the best steps, but these are the ones I took:
 - [ ] [CS106B - Programming Abstractions](https://github.com/caestrada/practicing-cpp/blob/master/cs106b/README.md)
  * I trully owe my passion for programming from this course. I first learned about it many years ago when I graduated from college. I had taken programming classes in school but never grasp the content until I took this class. 
  * Now I'm retaking the class to not only log my progress but to also refresh my C++ knowledge.
-- [X] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244)
-    * In my opinion the best bootcamp out in the web. The instructor [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) will take you from **Rooky** to **Pro** in this amazing course. For those who already have experience, it's still an amazing course to take.
+
 - [ ] In parallel with the bootcamp above, start your own webpage.
     * I'll provide a link to mine soon.
     * Make sure to have a purpose (and I'll explain what I mean later).
+    
+## Done
+- [X] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244)
+    * In my opinion the best bootcamp out in the web. The instructor [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) will take you from **Rooky** to **Pro** in this amazing course. For those who already have experience, it's still an amazing course to take.
