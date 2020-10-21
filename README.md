@@ -34,6 +34,9 @@ Not sure if these are the best steps, but these are the ones I took:
     * I'll provide a link to mine soon.
     * Make sure to have a purpose (and I'll explain what I mean later).
     
+- [ ] Complete Intro To Databases
+    * Course website [here](https://btholt.github.io/complete-intro-to-databases/)
+    
 ## Done
 - [X] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244)
     * In my opinion the best bootcamp out in the web. The instructor [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) will take you from **Rooky** to **Pro** in this amazing course. For those who already have experience, it's still an amazing course to take.
