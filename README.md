@@ -34,7 +34,7 @@ Not sure if these are the best steps, but these are the ones I took:
     * I'll provide a link to mine soon.
     * Make sure to have a purpose (and I'll explain what I mean later).
     
-- [ ] Complete Intro To Databases
+- [ ] [Complete Intro To Databases](https://github.com/caestrada/complete-intro-to-dbs)
     * Course website [here](https://btholt.github.io/complete-intro-to-databases/)
     
 ## Done
